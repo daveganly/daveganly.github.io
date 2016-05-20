@@ -41,12 +41,10 @@ text-align:center;
   background-color:#008000;
   color:#fff;
   text-align:center;
-   margin: 0 auto;
 
 }
 
 h4 {
-  margin-top:12px;
 }
 
 .number {
@@ -61,8 +59,8 @@ h4 {
 }
 
 .mobileNumber {
-  margin-top:32px;
-  margin-bottom:32px;
+  margin-top:16px;
+  margin-bottom:16px;
   width:95%;
   border-style:solid;
   border-width:0px 0px 2px 0px;
@@ -137,7 +135,7 @@ h4 {
 }
 
 .howsoon {
-  margin-top:32px;
+  margin-top:16px;
 }
 
 .book {

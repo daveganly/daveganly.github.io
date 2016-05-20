@@ -110,10 +110,9 @@ h4 {
   height:30px;
   border-radius:50px;
   display:inline-block;
-  margin:12px 6px 12px 6px;
+  margin:6px;
   background-color:#fff;
   text-align:center;
-   margin: 0 auto;
    font-size:16px;
    border-style:solid;
    border-color:#888;
@@ -140,7 +139,7 @@ h4 {
 }
 
 .book {
-  margin-top:32px;
+  margin-top:16px;
   background-color:green;
   color:#fff;
   width:100%;

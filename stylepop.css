@@ -45,6 +45,7 @@ text-align:center;
 }
 
 h4 {
+  margin:6px 0px 6px 0px;
 }
 
 .number {
@@ -59,7 +60,7 @@ h4 {
 }
 
 .mobileNumber {
-  margin-top:16px;
+  margin-top:6px;
   margin-bottom:16px;
   width:95%;
   border-style:solid;
